@@ -6,7 +6,7 @@
 <body>
 	<h1>
 		<?php
-			$name = Chris;
+			$name = "Chris";
 
 			echo "Hello . $name"
 		?>
